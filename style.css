@@ -1,0 +1,14 @@
+/* CSS Reset  */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/* CSS variables */
+:root{
+
+    height: 90px;
+}
+/* Navigation Bar  */
+#navbar{
+    display: flex;
+}
